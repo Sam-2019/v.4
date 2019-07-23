@@ -1,0 +1,16 @@
+.image{
+  width: 45px;
+  height: 50px;
+  border-radius: 100%;
+}
+
+
+input {
+margin: 5px;
+}
+
+#Pollcreate{
+float: left;
+align-items: left;
+justify-content: end;
+}
